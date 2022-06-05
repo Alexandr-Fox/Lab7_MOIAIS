@@ -1,0 +1,16 @@
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.exe
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.deps.json
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.runtimeconfig.json
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.runtimeconfig.dev.json
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.dll
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\bin\Debug\net5.0-windows\Lab7_MOIAIS.pdb
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.csproj.AssemblyReference.cache
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.AssemblyInfoInputs.cache
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.AssemblyInfo.cs
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.csproj.CoreCompileInputs.cache
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.dll
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\refint\Lab7_MOIAIS.dll
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.pdb
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\Lab7_MOIAIS.genruntimeconfig.cache
+C:\Users\alros\source\repos\Lab7_MOIAIS\Lab7_MOIAIS\obj\Debug\net5.0-windows\ref\Lab7_MOIAIS.dll
